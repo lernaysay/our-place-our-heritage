@@ -5,7 +5,7 @@
 | Name | Student ID | Responsibility |
 |---|---|---|
 | Saw Ler Nay Say | 202400335 | Project structure and frontend development |
-| Saw Eh Thaw Enoch | 202400330 | Community research and content development |
+| Enoch Htun | 202400330 | Community research and content development |
 
 ## Project Overview
 
