@@ -13,8 +13,6 @@ Enoch Htun
 202400330
 Content research and website development
 
-⸻
-
 1. Primary Sources
 1.1 Community Interviews
 Interview with Nyi Lynn Htwe
@@ -50,8 +48,6 @@ Content: Photographs of Myinkaba surroundings, traditional crafts, food, and com
 Usage: Visual references and supporting images throughout the website.
 Permission: Used according to the permission provided by the Community Partner.
 
-⸻
-
 2. Secondary Sources
 The following references were used to support research about Bagan, Myinkaba Village, traditional crafts, festivals, and cultural heritage.
 No.
@@ -84,8 +80,6 @@ Manuha Pagoda Festival in Bagan
 Festival traditions and food offerings, including rice cakes.
 Research note: The MYANMORE article does not identify the exact type of rice cake. Information about Bagan and Upper Myanmar is not automatically presented as a custom unique to Myinkaba Village.
 
-⸻
-
 3. Image Sources and Credits
 3.1 External Photograph
 Detail
@@ -115,8 +109,6 @@ Usage
 Supports the cultural topics presented throughout the website.
 Permission
 Used according to the permission provided by the Community Partner.
-
-⸻
 
 4. Content and Image Usage Notes
 Interviews are used as primary sources for local knowledge and cultural perspectives.
